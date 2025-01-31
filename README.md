@@ -1,3 +1,12 @@
+## 🛠️ Technologies Used
+- **Python** 🐍
+- **JavaScript** ⚡
+- **TypeScript** 💙
+- **React** ⚛️
+- **Tailwind CSS** 🎨
+
+
+
 <p align="center">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/> <!-- HTML -->
