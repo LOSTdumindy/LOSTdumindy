@@ -1,3 +1,13 @@
+Hi there, I'm LOSTdumindy! 👋
+
+Welcome to my GitHub profile! I'm passionate about Cyber Security, Cloud Computing, and Web Development. Currently studying at SLIIT and planning to continue at University of Queensland (UQ).
+
+
+
+
+
+🚀 Tech Stack
+
 ## 🛠️ Technologies Used
 - **Python** 🐍
 - **JavaScript** ⚡
@@ -6,7 +16,7 @@
 - **Tailwind CSS** 🎨
 
 
-
+📊 GitHub Stats
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/> <!-- HTML -->
