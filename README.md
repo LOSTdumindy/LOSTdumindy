@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm passionate about Cyber Security, Cloud Computi
 
 
 
-
-
 🚀 Tech Stack
 
 ## 🛠️ Technologies Used
@@ -14,6 +12,8 @@ Welcome to my GitHub profile! I'm passionate about Cyber Security, Cloud Computi
 - **TypeScript** 💙
 - **React** ⚛️
 - **Tailwind CSS** 🎨
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTdumindy&layout=compact&theme=dark)
 
 
 📊 GitHub Stats
