@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTdumindy&layout=compact&theme=dark)
 
 <!-- Wakatime Stats -->
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LOSTdumindu&theme=dark)
 
 <!---
 LOSTdumindy/LOSTdumindy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
