@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm passionate about Cyber Security, Cloud Computi
 - **Tailwind CSS** 🎨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTdumindy&layout=compact&theme=dark)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LOSTdumindy&theme=dark)
+
 
 
 📊 GitHub Stats
