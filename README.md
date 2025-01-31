@@ -12,7 +12,7 @@
 - **React** ⚛️
 - **Tailwind CSS** 🎨
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTdumindy_USERNAME&layout=compact&theme=dark)
 
 
 <!-- Wakatime Stats -->
