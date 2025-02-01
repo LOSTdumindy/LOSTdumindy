@@ -1,9 +1,5 @@
 Hi there, I'm Dumindu Amodith! 👋
 
-Welcome to my GitHub profile! I'm passionate about Cyber Security, Cloud Computing, and Web Development. Currently studying at SLIIT and planning to continue at University of Queensland (UQ).
-
-
-
 🚀 Tech Stack
 
 ## 🛠️ Technologies Used
