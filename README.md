@@ -9,12 +9,14 @@ Hi there, I'm Dumindu Amodith! 👋
 - **React** ⚛️
 - **Tailwind CSS** 🎨
 
+📊 GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTdumindy&layout=compact&theme=dark)
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LOSTdumindu&theme=dark)
 
 
 
-📊 GitHub Stats
+
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/> <!-- HTML -->
