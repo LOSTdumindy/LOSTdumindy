@@ -13,7 +13,6 @@ Hi there, I'm Dumindu Amodith! 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTdumindy&layout=compact&theme=dark)
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LOSTdumindu&theme=dark)
-curl -H "Authorization: Bearer waka_82bea3c8-a142-4d20-8426-04ee02058b82" "https://wakatime.com/api/v1/users/current/stats/last_7_days"
 
 
 
