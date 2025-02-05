@@ -1,4 +1,4 @@
-Hi there, I'm Dumindu Amodith! 👋
+<h1>Hi there, I'm Dumindu Amodith! 👋 </h1>
 
 🚀 Tech Stack
 
